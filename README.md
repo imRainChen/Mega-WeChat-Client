@@ -4,9 +4,8 @@ Mega-WeChat-Client
 
 二话不说，先上效果图：
 
-![这里写图片描述](http://img.blog.csdn.net/20160603170000551)
+![这里写图片描述](https://note.youdao.com/yws/api/personal/file/WEB436c8ffaecd9e873feb8f7cfff03ffa2?method=download&shareKey=6be71e4741189afb23fb65f81645fa29)
 
-![这里写图片描述](http://img.blog.csdn.net/20160701151317264)
 功能特性
 ----------
  - 发送微信模板消息
