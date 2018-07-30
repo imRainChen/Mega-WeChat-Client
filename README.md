@@ -17,13 +17,13 @@ Mega-WeChat-Client
 介绍
 ----------
 
-###环境要求
+# 环境要求
  - php5.6+
  - Swoole1.8.2+
  - Mysql
  - Composer
 
-###安装
+# 安装
 
 **第一步**
 安装PHP，需要5.6以上版本。由于服务端的队列用了SPL函数和PHP新特性的语法
@@ -61,7 +61,7 @@ Mega-WeChat-Client
 安装Mega-WeChat服务端
 详细教程在github：https://github.com/imRainChen/Mega-Wechat
 
-###配置
+# 配置
 该项目基于Yii框架，配置的方式与Yii相同。
 
 * 设置数据库组件配置信息
@@ -97,7 +97,7 @@ vi config/params.php
 ]
 ```
 
-###注意事项
+# 注意事项
 
  1. 如若出现任务执行失败，请检查Mega-WeChat服务是否启动。
  2. 检查runtime目录存放日志的权限，必须要有读写权限。
